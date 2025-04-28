@@ -5,7 +5,7 @@ import profileImage from '../assets/profile.png';
 const Home = () => {
   return (
     <main className="flex-shrink-0">
-      {/* Header */}
+      {/* Header test */}
       <header className="py-5">
         <Container className="px-5 pb-5">
           <Row className="gx-5 align-items-center">
